@@ -1,8 +1,11 @@
 .button-link
 {
-  display:inline-block/* make the
+  display:inline-block;/* make the
 link behave like button so that padding
 works*/
-padding:10px20px/* size of botton*/
-background colour:pink/* colour of the button*/
-colour:white/* colour of text*/}
+padding:10px20px;/* size of botton*/
+background colour:pink;/* colour of the button*/
+colour:white;/* colour of text*/
+text decoration:none;/*remove ubderline
+*/
+border-radius:5xp;/* rounded corners*/ }
