@@ -8,4 +8,6 @@ background colour:pink;/* colour of the button*/
 colour:white;/* colour of text*/
 text decoration:none;/*remove ubderline
 */
-border-radius:5xp;/* rounded corners*/ }
+border-radius:5xp;/* rounded corners*/
+font-weight: bold;
+  transition: background-color 0.3s ease;}
