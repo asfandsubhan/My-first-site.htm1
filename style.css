@@ -1,16 +1,14 @@
-.button-link
-{
-  display:inline-block;/* make the
-link behave like button so that padding
-works*/
-padding:10px20px;/* size of botton*/
-background colour:pink;/* colour of the button*/
-colour:white;/* colour of text*/
-text decoration:none;/*remove ubderline
-*/
-border-radius:5xp;/* rounded corners*/
-font-weight: bold;
-  transition: background-color 0.3s ease;}
-.button-link:hover{
-  background colour:pink;/* pink on hover
-  */}
+.button-link {
+  display: inline-block;       /* Makes the link behave like a block so padding works */
+  padding: 10px 20px;          /* Space inside the button */
+  background-color: #007BFF;   /* Button color (blue) */
+  color: white;                /* Text color */
+  text-decoration: none;       /* Remove underline */
+  border-radius: 5px;          /* Rounded corners */
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.button-link:hover {
+  background-color: #0056b3;   /* Darker blue on hover */
+}
