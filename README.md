@@ -36,7 +36,7 @@
   
 
   <a href="https://katmoviehd.blue/"
-    class="button  link">
+    class="button-link">
     Kat movies.</a>
  
  <p>Please visit this site for downloading all types of movies and web series.</p>
