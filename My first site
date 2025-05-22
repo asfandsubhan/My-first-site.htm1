@@ -5,6 +5,8 @@
 <head>
 
   <title>My Test Page</title>
+<link rel="stylesheet"
+href="style.css">
 
 </head>
 
@@ -33,7 +35,8 @@
 
   
 
-  <a href="https://katmoviehd.blue/">My favorite website.
+  <a href="https://katmoviehd.blue/"
+class="button">My favorite website.
     Kat movies.
     Please visit this site for downloading all types of movies and web series.</a>
 
